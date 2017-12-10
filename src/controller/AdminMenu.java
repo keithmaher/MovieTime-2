@@ -165,7 +165,7 @@ public class AdminMenu {
 		  
 		  @Command(description="Logout")
 			public void LogOut() throws Exception{
-				movietime.logout();
+				movietime.logout(); 
 				System.out.println("Logging out");
 			}
 		  
