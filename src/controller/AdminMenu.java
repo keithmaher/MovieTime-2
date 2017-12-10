@@ -147,7 +147,7 @@ public class AdminMenu {
 		  
 //		  @Command(description = "Get all ratings")
 //		 public void getRatings()
-//		  {
+//		  { 
 //			 System.out.println(movietime.getRatings()); 
 //		  }
 		  
